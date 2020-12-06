@@ -1,12 +1,22 @@
 # The Cyborg Musician Manifesto
 
+
 ## Purpose
 
+
 A philosophy has emerged
+
+
 ---
+
+
 The most up-to-date copy of this file is hosted at
 (https://github.com/Skoddiethecat/cyborg-musician-manifesto)
+
+
 ---
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
