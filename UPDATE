@@ -1,0 +1,2 @@
+#!/bin/bash
+cp cyborg-musician-manifesto.md README.md
