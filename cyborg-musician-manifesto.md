@@ -1,6 +1,6 @@
-#The Cyborg Musician Manifesto
+# The Cyborg Musician Manifesto
 
-##Purpose
+## Purpose
 A philosophy has emerged
 ---
 The most up-to-date copy of this file is hosted at (https://github.com/Skoddiethecat/cyborg-musician-manifesto)
